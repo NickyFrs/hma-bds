@@ -1,7 +1,18 @@
 
-.container {
+.fixed-top {
     margin: 0;
     padding: 0;
     height: 100px;
-    color: beige;
+    width: 100%;
+    background-color: #fff;
+    color: black;
+    display: block;
+    clear: both;
+    align-items: center;
+}
+
+#test {
+    width: auto;
+    height: 1300px;
+    background-color: burlywood;
 }
