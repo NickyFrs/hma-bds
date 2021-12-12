@@ -1,18 +1,229 @@
 
-.fixed-top {
+* {
     margin: 0;
     padding: 0;
-    height: 100px;
-    width: 100%;
-    background-color: #fff;
-    color: black;
-    display: block;
-    clear: both;
-    align-items: center;
+    box-sizing: border-box;
 }
 
-#test {
-    width: auto;
-    height: 1300px;
-    background-color: burlywood;
+/* Header Register Button*/
+
+.header-register-button {
+    margin-top: 5px;
+    background-color: #1B5F34;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+}
+
+.register-button {
+    margin: 0;
+    border: 2px solid #1B5F34;
+    border-radius: 5px;
+    background-color: #fff;
+    
+}
+
+.register-button:hover {
+    border: 1px solid #1B5F34;
+    background-color: #1B5F34;
+    color: white;
+}
+
+nav> div> div> button:hover {
+    color: #fff;
+    text-transform: capitalize;
+}
+
+nav> div> div> button> a {
+    padding: 1rem 1rem;
+}
+
+nav> div> div> button> a:hover {
+    color: #fff;
+    text-transform: capitalize;
+}
+
+/* Navigation Bar */
+
+.navbar {
+    background-color: rgba(255, 255, 255, 0);
+    color: #1B5F34;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-family: "Monserrat", sans-serif;
+    font-size: 1rem;
+    font-weight: 500;
+    text-transform: capitalize;
+    /* box-shadow: 1px 1px 2px 1px #1B5F34; */
+    border-bottom: 1px solid #1B5F34;    
+    clear: both;
+}
+
+.navbar a {
+    color: #1B5F34;
+    text-decoration: none;
+}
+
+.navbar-list {
+    list-style-type: none;
+    float: right;
+}
+
+.navbar-item {
+    display: inline-block;
+    margin: 10px 10px;
+}
+
+.navbar-item:hover:not(.active) {
+    border-bottom: 3px solid orangered;
+}
+
+.active {
+    border-bottom: 4px solid orangered;
+}
+
+.navbar-logo {
+    text-align: center;
+    text-transform: none;
+}
+
+.navbar-logo--img {
+    height: 100px;
+    margin: 0;
+    padding: 0;
+    display: none;
+}
+
+.mob-menu {
+    display: none;
+}
+
+.mob-menu_line {
+    height: 4px;
+    width: 25px;
+    background-color: seagreen;
+    margin-bottom: 4px;
+}
+
+/* Media Query @ 600px */
+
+@media all and (max-width: 600px) {
+
+    .navbar {
+        flex-direction: column;
+    }
+
+    .navbar-logo {
+        text-align: center;
+        text-transform: none;
+        display: none;
+    }
+
+    .navbar-logo--img {
+        height: 100px;
+        margin: 0;
+        padding: 0;
+        display: block;
+    }
+
+    .mob-menu {
+        display: block;
+        position: absolute;
+        right: 20px;
+        top: 15px;
+        margin-right: 10px;
+        padding: 0;
+    }
+
+    .navbar-list {
+        list-style-type: none;
+        width: 100%;
+        text-align: center;
+        padding-top: 10px;
+        padding-left: 0;
+        display: none;
+    }
+    
+    .navbar-list .navbar-item {
+        display: block;
+        padding: 10px 10px;
+        border-top: 2px solid orangered;
+    }
+
+    .active {
+        display: block;   
+    }
+}
+
+/* Media Query @ 450px */
+
+@media all and (max-width: 450px) {
+
+    .navbar {
+        flex-direction: column;
+    }
+
+    .navbar-logo {
+        text-align: center;
+        text-transform: none;
+        display: none;
+    }
+
+    .navbar-logo--img {
+        height: 100px;
+        margin: 0;
+        padding: 0;
+        display: block;
+    }
+
+    .mob-menu {
+        display: block;
+        position:static;
+        margin-top: 10px;
+    }
+
+    .navbar-list {
+        list-style-type: none;
+        width: 100%;
+        text-align: center;
+        padding-top: 10px;
+        padding-left: 0;
+        display: none;
+    }
+    
+    .navbar-list .navbar-item {
+        display: block;
+        padding: 10px 10px;
+        border-top: 2px solid orangered;
+    }
+
+    .active {
+        display: block;   
+    }
+}
+
+
+
+/* Elements */
+
+ul,
+ol {
+    margin: 0;
+}
+
+p {
+    font-family: "Roboto", sans-serif, Verdana, Geneva, Tahoma;
+}
+
+h4 {
+    text-transform: uppercase;
+}
+
+
+/* Body Section */
+
+section {
+    height: 1000px;
+    background-color: #fff;
 }
