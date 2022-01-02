@@ -1,0 +1,517 @@
+/* ABOUT PAGE CSS
+-------------------------------------------
+-------------------------------------------
+-------------------------------------------
+---------------------------------------- */
+
+
+* {
+    box-sizing: border-box;
+    transition: ease-in-out 250ms;
+}
+
+body {
+    margin: 0;
+    font-family: "Raleway", sans-serif;
+    text-align: center;
+    color: #073B3A;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+.container {
+    width: 95%;
+    max-width: 70em;
+    margin: 0 auto;
+}
+
+.clearfix::after,
+section::after,
+footer::after {
+    content: '';
+    display: block;
+    clear: both;
+}
+
+.unstyled-list li{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+
+/* Typography
+------------------------------------------------- */
+h1 {
+    font-weight: 300;
+    font-size: 2em;
+}
+
+h2 {
+    font-weight: 300;
+    font-size: 1.5rem;
+}
+
+h5 {
+    font-weight: 300;
+    font-size: 1rem;
+    text-transform: uppercase;
+    margin: 0.3em;
+}
+
+.h2-heading {
+    font-size: 2em;
+    text-transform: uppercase;
+    padding-top: 0.5em;
+    margin: 2em 20vw 2em 20vw;
+    border-top: 2px solid #399E5A;
+    margin-left: 10vw;
+    margin-right: 10vw;
+    font-weight: 400;
+}
+
+p:last-of-type {
+    margin-bottom: 0;
+}
+
+.titles {
+    font-size: 2em;
+    color: azure;
+    
+}
+
+.s-titles {
+    font-size: 1.5em;
+    color: #399E5A;
+    font-weight: 400;
+    margin-bottom: 1em;
+}
+
+.parra {
+    margin: 1em auto;
+    color: azure;
+
+}
+
+.parra span {
+    display: block;
+    font-size: 1.5em;
+    font-weight: 600;
+    padding: 0.5em 0;
+    color: azure;
+
+}
+
+@media (min-width: 60rem) {
+    .titles {
+        font-size: 2.5rem;
+        
+    }
+    
+    .parra {
+        margin: 2em auto;
+        font-size: 1.4rem;
+
+    
+    }
+    
+    .parra span {
+        font-size: 1.25rem;
+        font-weight: 600;
+        padding: 0.5em 0;
+    
+    }
+}
+
+
+/* Buttons
+-------------------------------------------------- */
+
+.button {
+    display: inline-block;
+    font-size: 1.3em;
+    text-decoration: none;
+    color: azure;
+    border: 2px solid azure;
+    padding: 0.2em 1em;
+}
+
+.button-small {
+    font-size: .85rem;
+}
+
+.button-accent {
+    color: azure;
+    border-color: #073B3A;
+    background: #073B3A;
+    font-weight: 600;
+
+}
+
+.button-accent:hover,
+.button-accent:focus {
+    border-color: #399E5A;
+    background: #399E5A;
+    color:azure;
+    font-weight: 700;
+}
+
+
+/* Header
+----------------------------------------------- */
+
+header {
+    position: relative;
+    left: 0;
+    right: 0;
+    margin-top: 0em;
+    background-color: white;
+    padding: 1vh 0;
+    overflow: auto;
+    z-index: 1;
+
+}
+
+header img {
+    height: 10em;
+}
+
+nav ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+nav li {
+    display: inline-block;
+    margin: 1em;
+}
+
+nav a {
+    font-weight: 600;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 0.9rem;
+    padding: 0.7em;
+    color: #073B3A;
+}
+
+nav a:hover,
+nav a:focus {
+    color: #399E5A;
+    border-bottom: 2px solid #399E5A;
+}
+
+
+@media (min-width: 60rem) {
+    .logo {
+        float: left;
+        margin-left: 2em;
+        margin-top: 0vh;
+    }
+
+    nav{
+        float: right;
+        margin-right: 2em;
+        margin-top: 0vh;
+    }
+}
+
+
+/* CONTENT Section
+----------------------------------------------- */
+
+main {
+    background-image: url(/assets/img/bg/hma-bg.jpg);
+    background-position: left;
+    background-size: contain;
+    background-repeat: repeat-y;
+}
+
+h1 {
+    font-size: 2.3rem;
+    font-weight: 500;
+}
+
+.begin .h2-heading,
+.mission .h2-heading,
+.vision .h2-heading,
+.core-values .h2-heading {
+    font-size: 1.5rem;
+    font-weight: 300;
+    margin-bottom: 0em;
+    margin-top: 0;
+    border: none;
+}
+
+
+.begin .h2-heading:hover{
+    font-weight: 400;
+    background-color: #232323;
+    color: azure;
+    border-radius: 25px;
+}
+
+.mission .h2-heading:hover {
+    font-weight: 400;
+    background-color: #399E5A;
+    color: azure;
+    border-radius: 25px;
+}
+
+.vision .h2-heading:hover {
+    font-weight: 400;
+    background-color: #232323;
+    color: azure;
+    border-radius: 25px;
+}
+
+.core-values .h2-heading:hover {
+    font-weight: 400;
+    background-color: #399E5A;
+    color: azure;
+    border-radius: 25px;
+}
+
+.core-values .h2-heading {
+    margin-bottom: 1em;
+}
+
+.begin .parra,
+.mission .parra,
+.vision .parra,
+.core-values .parra {
+    margin: 1em auto;
+    color: #073B3A;
+    padding: 2em;
+    text-align: justify;
+    font-size: 0.9rem;margin-bottom: 0;
+}
+
+.begin a,
+.mission a,
+.vision a,
+.core-values a {
+    text-decoration: none;
+    color: #073B3A;
+    margin-top: 0;
+    position: relative;
+}
+
+
+
+.begin .parra {
+    background-color: #232323;
+    color: azure;
+    border-radius: 20px;
+    padding: 3em;
+    box-shadow: 3px 3px 3px 3px grey;
+}
+
+.mission .parra{
+    background-color: #399E5A;
+    color: azure;
+    border-radius: 20px;
+    padding: 3em;
+    box-shadow: 3px 3px 3px 3px grey;
+}
+
+.vision .parra{
+    background-color: #232323;
+    color: azure;
+    border-radius: 20px;
+    padding: 3em;
+    box-shadow: 3px 3px 3px 3px grey;
+}
+
+
+.core-values .parra{
+    background-color: #399E5A;
+    color: azure;
+    border-radius: 20px;
+    padding: 3em;
+    box-shadow: 3px 3px 3px 3px grey;
+    margin-bottom: 2em;
+}
+
+.barbg-color {
+    background-color: #232323;
+}
+
+
+@media (min-width: 60rem) {
+    main {
+        background-image: url(/assets/img/bg/pexels-karolina.png), url(/assets/img/bg/hma-bg.jpg);
+        background-position: left, right;
+        background-size: contain, contain;
+        background-repeat: no-repeat, repeat-y;
+    }
+}
+
+
+
+
+
+/* Footer Section
+----------------------------------------------- */
+
+footer {
+    background-color: #232323;
+    position: relative;
+}
+
+footer h2 {
+    color: azure;
+    padding-top: 0.5em;
+    margin-top: 0;
+}
+
+.col-3 {
+    color: #399E5A;
+    display: flex;
+    text-align: start;
+    padding: 0.5em 2em 0.5em 4em;
+    gap: 3em;
+    
+}
+
+.col-3 h5 {
+    font-weight: 500;
+    margin-top: 0.6em;
+    color: #399E5A;
+}
+
+.col-3 address {
+    color: azure;
+}
+
+.quickcontact .user-details {
+    display: flex;
+    flex-flow: column;
+    text-align: left;
+} 
+
+
+.col-1 {
+    width: 100vw;
+    color: azure;
+}
+
+.col-1 h2 {
+    padding-top: 0.5em;
+    margin: 2em 20vw 0.3em 20vw;
+    border-top: 2px solid #399E5A;
+    margin-left: 10vw;
+    margin-right: 10vw;
+    font-weight: 400;
+
+}
+
+.col-1 a {
+    text-decoration: none;
+    color: azure;
+}
+
+.col-1 a:hover,
+.col-1 a:focus {
+    font-weight: 600;
+    color: #399E5A;
+}
+
+
+.col-1 ul {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 0;
+}
+
+.col-1 ul> li:hover,
+.col-1 ul> li:focus {
+    font-size: 150%;
+    font-weight: 600;
+    color: #399E5A;
+}
+
+
+.copyright {
+    width: 100vw;
+    color: azure;
+    padding: 1em 1em;
+}
+
+.quickcontact {
+    color: #399E5A;
+    font-weight: 400;
+    margin: 0 2em;
+    margin-top: 1em;
+}
+
+.quickcontact button {
+    font-size: 1rem;
+    margin-top: 1em;
+    margin-bottom: -1em;
+    position: relative;
+
+}
+
+
+@media (min-width: 37.5rem) {
+
+    /* Column System Settings 
+    ------------------------------------------------- */
+    /* Taken from Kevin Powell YouTube channel.
+    ref How to Create a Responsive Website from Scratch - Part 5: Call To Action and Footer url:https://www.youtube.com/watch?v=3Bd5NHAbepY; 14 Dec 2016  */
+    [class^=col-] {
+        padding: 1em;
+        float: left;
+        }
+
+    .col-3 {
+        width: 50%;
+        padding: 1em;
+        padding: 0.5em 2em 0.5em 4em;
+        gap: 3em;
+     }
+
+    .col-1 {
+        width: 50%;
+        float: right;
+        padding: 0;
+        margin: 0;
+    }
+
+    .copyright {
+        display: block;
+        clear: both;
+    }
+    
+    .quickcontact button {
+        display: block;
+        width: 40vw;
+        left: 50vw;
+    }
+        
+}
+
+@media (min-width: 50rem) {
+   
+    [class^=col-] {
+        /* width: 100vw; */
+        margin: 0.5em;
+    }
+
+    .col-1 {
+        width: 47vw;
+        float: left;
+    }
+
+    .quickcontact button {
+        display: block;
+        
+    }
+
+}
