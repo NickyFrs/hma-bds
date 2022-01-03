@@ -225,7 +225,7 @@ nav a:focus {
 ----------------------------------------------- */
 
 main {
-    background-image: url(/assets/img/bg/hma-bg.jpg);
+    background-image: url(https://nickyfrs.github.io/hma-bds/assets/img/bg/hma-bg.jpg);
     background-position: left;
     background-size: contain;
     background-repeat: repeat-y;
@@ -344,7 +344,7 @@ h1 {
 
 @media (min-width: 60rem) {
     main {
-        background-image: url(/assets/img/bg/pexels-karolina.png), url(/assets/img/bg/hma-bg.jpg);
+        background-image: url(https://nickyfrs.github.io/hma-bds/assets/img/bg/pexels-karolina.png), url(https://nickyfrs.github.io/hma-bds/assets/img/bg/hma-bg.jpg);
         background-position: left, right;
         background-size: contain, contain;
         background-repeat: no-repeat, repeat-y;
