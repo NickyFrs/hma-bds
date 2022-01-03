@@ -715,6 +715,7 @@ figure {
 .choice legend {
     text-transform: uppercase;
     margin: 0.3em;
+    text-align: left;
 }
 
 .choice select {
@@ -753,6 +754,7 @@ figure {
 .message legend {
     text-transform: uppercase;
     margin: 0.3em;
+    text-align: left;
 }
 
 @media (min-width: 37.5rem) {
