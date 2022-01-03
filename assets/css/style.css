@@ -203,7 +203,7 @@ nav a:focus {
 ----------------------------------------------- */
 
 .home-hero {
-    background-image: url(/assets/img/bg/byBirdCantFly.jpg);
+    background-image: url(https://nickyfrs.github.io/hma-bds/assets/img/bg/byBirdCantFly.jpg);
     background-size: cover;
     background-position: center;
     padding: 8em 0;
@@ -264,7 +264,7 @@ nav a:focus {
 @media (min-width: 60rem) {
     
     .home-about {
-        background-image: url(/assets/img/main/section1/img2sq.png), url(/assets/img/main/section1/music-note1.png);
+        background-image: url(https://nickyfrs.github.io/hma-bds/assets/img/main/section1/img2sq.png), url(https://nickyfrs.github.io/hma-bds/assets/img/main/section1/music-note1.png);
         background-position: right, center;
         background-repeat: no-repeat;
         background-size: 40em;
@@ -286,7 +286,7 @@ nav a:focus {
 @media (min-width: 74.25rem) {
     
     .home-about {
-        background-image: url(/assets/img/main/section1/img2sq.png), url(/assets/img/main/section1/music-note1.png);
+        background-image: url(https://nickyfrs.github.io/hma-bds/assets/img/main/section1/img2sq.png), url(https://nickyfrs.github.io/hma-bds/assets/img/main/section1/music-note1.png);
         background-position: right, center;
         background-repeat: no-repeat;
         background-size: 40em;
