@@ -217,6 +217,14 @@ nav a:focus {
     margin-top: 15vh;
 }
 
+.home-hero p {
+    margin: 0.8em 0;
+}
+
+.home-hero a {
+    margin: 2em 0;
+}
+
 
 @media (min-width: 60rem) {
     .home-hero>div.container {
