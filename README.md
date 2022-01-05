@@ -47,10 +47,10 @@ For screenshots of the website as it is now and also as per projeje, please see 
 
 ### User Background
 ---
-My approach to the UX design was to input what I believed to be the neccessary primary information,
+My approach to the UX design was to input what I believed to be the necessary primary information,
 without overloading them. To achieve this, I tried to put myself in the user's position and think of the 
 type of information I would like to see if I were to visit the website, as well as how easy 
-and accesible it would be if I were using the website on the move.
+and accessible it would be if I were using the website on the move.
 
 I started with the mobile first desing as most people nowadays are on the move and mostly check information 
 on their mobile phones and after working on the desktop desing. I worked under the idea that majority of 
@@ -138,7 +138,7 @@ continuity and consistency.
 I will be using a total of four colour palettes on the website:
 
 - #232323 (dark - Black/Dark brown)
-- #399E5A (Green - ligther shade)
+- #399E5A (Green - lighter shade)
 - #073B3A (Green - darker shade)
 - #F0FFFF (azure - white)
 		
@@ -254,23 +254,23 @@ If a site visitor is interested in contacting the school or booking a trial, the
 
 ## Deployment of Website
 ---
-This webiste was developed and hosted using **GitPod and GitHub pages** and stored in repositories on Github. 
+This website was developed and hosted using **GitPod and GitHub pages** and stored in repositories on Github. 
 
 Gitpod was installed as an extension
 tool on Google Chrome, which was accessed then via the project's repository page on Github. This allowed for 
 regular version control updates:
-0. git status was enterd to check for any changes on flie that needed commit.
+0. git status was entered to check for any changes on file that needed commit.
 1. git add . was entered into the command line interface to add files to the staging area.
 2. git commit -m "" committed the files to the repository.
 3. git push -u origin master pushed the master branch.
  
-The website was deployed using Github Pages. To do this, while in the github webpages of the project repository: 
-1. on the menu that apears on the right hand side of the page under 'Environments' you can find a link to `github-pages` with anc Active batch on the side.
+The website was deployed using Github Pages. To do this while in the github webpages of the project repository: 
+1. on the menu that appears on the right hand side of the page under 'Environments' you can find a link to `github-pages` with anc Active batch on the side.
 2. Click on either, github-pages or Environments, it will take you to the `Deployment history` page.
 3. Once on the Deployment history page on the right had side you will se a `View Deployment` button. 
 4. Click on `View Deployment` and this will open the home page of the websit in a new window.
 
-Alternatively the lnks below can be use to directly open the website or go to the repositories:
+Alternatively the links below can be use to directly open the website or go to the repositories:
 
 Link to repositories:
 [https://github.com/NickyFrs/hma-bds](https://github.com/NickyFrs/hma-bds)
@@ -292,13 +292,13 @@ To run the project locally:
 ---
 - GitHub was where the files were stored.
 - Gitpod was the editing environment used to create and edit files.
-- [Bootstrap 5](https://getbootstrap.com/) was used for Collapse menue on about page and progress bars shown in the core value section on the same page.
+- [Bootstrap 5](https://getbootstrap.com/) was used for Collapse menu on about page and progress bars shown in the core value section on the same page.
 - [Font awesome](https://fontawesome.com/) was used to provide icons for social media and in the contact page.
 - [Google Fonts](https://fonts.google.com/) was used to provide the fonts.
 - [Coolors](https://coolors.co/) was used to generate a color palette.
 - [W3C CSS Validator](https://jigsaw.w3.org/css-validator/validator) was used to validate the style.css file.
 - [HTML](https://www.w3schools.com)  **HTML5 reference** for creating the website and leveraged it's semantic elements.
-- [CSS3](https://www.w3schools.com/css/css_intro.asp) The project uses **CSS3** for stlying elements of the page.
+- [CSS3](https://www.w3schools.com/css/css_intro.asp) The project uses **CSS3** for styling elements of the page.
 - [JQuery](https://jquery.com) from boostrap **JQuery** to support bootstrap collapsible menu in the about.html page.
 - [Figma]() for the wireframes created.
 - [Color Contrast Accessibility Validator](https://color.a11y.com/Contrast/)
@@ -341,7 +341,7 @@ To run the project locally:
     ✓ No attribution required.
     Pexel
     [https://www.pexels.com/photo/person-in-black-hoodie-playing-acoustic-guitar-4472063/](https://www.pexels.com/photo/person-in-black-hoodie-playing-acoustic-guitar-4472063/)
-    accsessed 02jan2022
+    accessed 02jan2022
 
     photo-Steel Pan - music and culture in Lavantille Port of Spain, Trinidad
     Taken on August 20, 2012
@@ -359,7 +359,7 @@ To run the project locally:
 --------
 ### Inspiration
 ---
-- I received inspiration for this project from my personal exeprience and websites like Dribbble.
+- I received inspiration for this project from my personal experience and websites like Dribbble.
 - Also Kevin Powel video series on How to Make a website from scratch, YouTube. 
 
 
