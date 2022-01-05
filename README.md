@@ -107,35 +107,35 @@ The focus, therefore, will be on showing that the school offers services for sma
 more personalized tutoring, dependent on the needs of the student at an affordable or competing price,
 for all ages.
 			
-Upon looking at various websites on the internet I found that most use a clear layout to showcase 
-theirs services with some using the colors their logos as base to convey their information, 
-some others use a mixture. 
+Upon looking at various websites on the internet, I found that most use a clear layout to showcase 
+their services with some using the colour scheme of their logos as base to convey their information, 
+while others use a mixture. 
         
-The plan is to use a 3 color palette that is inline with the brand and at the same time with a layout that 
-looks professional, clean and not cluster.
+The plan is to use a three colour palette that is in line with the brand with a layout that looks 
+professional, clean and not clustered.
 
 
 ## Design
 		
 ### Logo
 ---
-I will not be creating a logo since the school have one already. I will be working on the bases of 
+I will not be creating a logo since the school has one already. I will be working on the basis of 
 the logo provided.
 		
 The logo has the school name (Hope Music Academy) with the "Hope" as the center stage and the treble 
-clef replacing the "o" for Hope. It uses a green and black colours with some white lines. The background 
-of the logo can be transparent but it seems to show better against a white back ground.
+clef replacing the "o" in Hope. It uses green and black colours with some white lines. The background 
+of the logo can be transparent but it seems to present better against a white back ground.
 		
-Since is a music school the logo seems appropriate for the intention and I will not suggest any changes, 
-but will recommend to show the logo with a white back ground as much as possible.
+Since it is for a music school, the logo seems appropriate for the intention and I will not suggest any 
+changes, but will recommend to show the logo with a white background as much as possible.
 
 ### Colour Palette
 ---
-From the small marketing research I did, I realized that there isn't a specific color associated with 
-music teaching, therefore I will use color inline with the logo (green and black specifically) for 
+From the small marketing research I did, I realized that there was not a specific colour associated with 
+music tuition, therefore I will use the colours in line with the logo (green and black specifically) for 
 continuity and consistency. 
 
-I will be using a total of four colors palette on the website:
+I will be using a total of four colour palettes on the website:
 
 - #232323 (dark - Black/Dark brown)
 - #399E5A (Green - ligther shade)
@@ -146,48 +146,48 @@ I will be using a total of four colors palette on the website:
 ---    
 Fonts will be imported from the Google Font repository. The main text for all round is 
 Raleway with Sand Serif as fall back font. With a default color of #073B3A (Green - darker shade)
-againt white background. This color will be overwriten depanding on the background color need, i.e
-for buttons font color will be #F0FFFF (azure - white) for example.
+against a white background. This color will be overwritten depending on the background colour needed, 
+i.e for buttons, font color will be #F0FFFF (azure - white) for example.
 
 ### Images
 ---
-All the images used were photographs under the Creative Commons licenses taken form websites 
-like Flickr, FreeImages.com, Pixabay and some images and video link from the actual 
-Hope Music Academy - UK website with the agreement and knoledge of the owner.
+All the images used were photographs under the Creative Commons licenses taken from websites 
+such as Flickr, FreeImages.com, Pixabay and some images and video link from the actual 
+Hope Music Academy - UK website with the agreement and knowledge of the owner.
 
 ### Skeleton
 ---
 A .PDF file can be found [HERE](https://nickyfrs.github.io/hma-bds/Wireframes/HMA-BDS-Wireframe.pdf) with a wireframe meda with Figma shoing the mobile navigation 
-idea for desktop and Mobile, as well as the footer wireframe for moile and the entire idea for 
+idea for desktop and mobile, as well as the footer wireframe for mobile and the entire idea for 
 the Homepage layout for the website
 
 ### Scope
 ---
-I wanted visitors to the site to know straight away what it was about and what informtion they could 
+I wanted visitors of the site to know immediately what it was about and what information they could 
 find there. And I also wanted the structure to be very simple to enable users to make the minimum number 
-of clicks to access the desired infomation. 
+of clicks to access the desired information. 
 
 ### User journey
 ---
-To build a quick sense of familiarity, the navbar will be on the top right side of the screen 
+To build a quick sense of familiarity, the navbar will be on the top right side of the screen, 
 moving to the middle of the screen on the mobile view. The navigation structure, content and 
 location of the navbar will be the same for each webpage.
 
-The navbar has 3 pages listed: Home , About and Contact. With Home page being the with most information 
-about the services provided. The footer features all the ways the school can be contacted and a small 
-quick contact form.
+The navbar has 3 pages listed: Home , About and Contact, with the Home page containing the most information 
+about the services provided. The footer features every way the school can be contacted and a small 
+quick-contact form.
 
-On the About page (link thru the navigation menu), the user sees a list of 4 sections which are the 
-company's value. By degfaul each value/section is collapse, but expanding on mouse click to show its 
-description. I further differentiate eac section with color that can be seeing on mouse hover for 
+On the About page (link through the navigation menu), the user sees a list of four sections which are the 
+company's value. By default each value/section is collapsed, but expands on mouse click to show its 
+description. I further differentiate each section with colour that can be seen on mouse hover for 
 each section.  
 
-Finally on the contact page the user will find a contact forma as a body of the page and underneath a google 
-map shown the location of the address where lessons are held. In this page I employ the help of Bootstrap 
-for the collapsible option and for the progress bars shown in the Core Value section where I use 
-them for the company's 5 core values. 
+Finally, on the Contact page, the user will find a contact form as a body of the page and underneath a google 
+map showing the location of the address where lessons are held. On this page I employ the help of Bootstrap 
+for the collapsible option and for the progress bars shown in the Core Values section where I used 
+them for the company's five core values. 
 
-90% for the website use custom code to produce a dynamic responsive design for mobile, tablet and desktop 
+90% of the website used custom code to produce a dynamic responsive design for mobile, tablet and desktop 
 use of this site. This included the repositioning of text over images to ensure legibility.
 
 
@@ -199,25 +199,25 @@ This site currently contains the following features:
 - Home page - Two call to action sections, a small intro to the company, a section of the lessons provided, a Home Tuition video promo and a quick booking trial form.  
 - About page - Talk about hoe the company came to be and their values.
 - Contact page - Allows the user to get in contact for business services.
-- Showcases photos and information about the teachers as well a images for the instruments the school teaches.  
-- Provide an option for people contact the school.
+- Showcases photos and information about the teachers as well as images for the instruments the school teaches.  
+- Provides an option for people to contact the school.
 
 ### Future Features
 ---
-- Pages for each one of the tutor with more details of their experices.
+- Pages for each one of the tutors with more details of their experiences.
 - Create pages for more school services and price information
-- A blog space for sharing stories and from those create an acknowledge or recommended section in the Home page 
-- Create a account section for pupil to sign up and communicate with teachers, school, see grades, and book lessons.
+- A blog space for sharing stories and from those, create an acknowledgements or recommended section in the Home page 
+- Create an account section for pupils to sign up and communicate with teachers, see grades, and book lessons.
 
 ## Testing
 ---
- A numbe r of testing was carried out once the website was completed. An Spreadsheet and PDFs files where created for all 
+ A number of testing was carried out once the website was complete. A spreadsheet and PDFs files were created for all 
  the tests and can be found in the folder Test-Validation [https://github.com/NickyFrs/hma-bds/tree/main/Test-Validation](https://github.com/NickyFrs/hma-bds/tree/main/Test-Validation).
  
 **Validations**
 
-- The css stylesheet was inputted directly into the W3C CSS validator and approved for all 3 pages. 
-- All pages - index.html, about.html and contact.html - were inputted directly into the W3C Markup validator. Errors and warnings for each page were addressed and then the page was rechecked through the validator. The process was repeated until no warning remained.
+- The css stylesheet was input directly into the W3C CSS validator and approved for all three pages. 
+- All pages - index.html, about.html and contact.html - were input directly into the W3C Markup validator. Errors and warnings for each page were addressed and then the page was rechecked through the validator. The process was repeated until no warning remained.
 - A css stylesheet was created for each .html page.
 - Color Contrast Validation carried out.
 - Lighthouse Extended Report for performance produced.
@@ -229,25 +229,25 @@ This site currently contains the following features:
 
 - Manual testing was carried out on all the links and buttons on every page - all links in the footers and the navbars.
 - The read more and submit buttons were all checked as well. 
-- The collapse feature on About page works fine.
+- The collapse feature on the About page works fine.
 - The website was inspected using Google Chrome Dev Tools to view it on mobile and tablet versions. Each page was viewed and tested in these views.
-- A small and quick peer review was carried out for look and responsiveness which came up with possitive feedback.
+- A small and quick peer review was carried out for look and responsiveness which came up with positive feedback.
 
 **Site Responsiveness**
 
-To ensure compatibility and responsiveness I tested the site on multiple browsers and devices: 
+To ensure compatibility and responsiveness, I tested the site on multiple browsers and devices: 
 
 - **Browsers:** Chrome, Opera, FireFox, Edge
 
-- **Devices:** In addition to testing responsivness with chrome, Firefox, Edge inspector emulator tool I also asked four people to test on their mobile devicesand computers.
+- **Devices:** In addition to testing responsivness with Chrome, Firefox, Edge inspector emulator tool, I also asked four people to test on their mobile devices and computers.
 
 **Contact Form**
 
-There are two conact forms on the site. 
+There are two contact forms on the site. 
  
-If a site visitor is interested in contacting the school or booking a trialthe form will: 
+If a site visitor is interested in contacting the school or booking a trial, the form will: 
 
-1. Try to submit the empty form and verify that an error message about the required fields(name and email) appears
+1. Try to submit the empty form and verify that an error message about the required fields (name and email) appears
 2. Try to submit the form with an invalid email address and verify that a relevant error message appears
 3. Try to submit the form with all inputs valid and verify that a success message appears.
 
@@ -257,7 +257,7 @@ If a site visitor is interested in contacting the school or booking a trialthe f
 This webiste was developed and hosted using **GitPod and GitHub pages** and stored in repositories on Github. 
 
 Gitpod was installed as an extension
-tool on google Chrome, which was accessed then via the project's repository page on Github. This allowed for 
+tool on Google Chrome, which was accessed then via the project's repository page on Github. This allowed for 
 regular version control updates:
 0. git status was enterd to check for any changes on flie that needed commit.
 1. git add . was entered into the command line interface to add files to the staging area.
@@ -282,7 +282,7 @@ Link to Deployed Website:
 To run the project locally:
 1. Follow the link below to the project's Github repository page.
 2. Click on Code button.
-3. on the Clone popup choose the desire link to use (HTTPs, SSH, GitHub CLI) Copy the link provided.
+3. On the Clone popup choose the desire link to use (HTTPs, SSH, GitHub CLI) Copy the link provided.
 4. Enter git clone into the command line interface.
 5. Paste in the copied link and press enter.
 6. Or Open with GitHub Dsktop or Download the entire Repository in a .zip file.
@@ -306,10 +306,10 @@ To run the project locally:
 
 ## Credit
 ---
-- Hope Music Academy for letting me use their content and alowing me to present the idea.
+- Hope Music Academy for letting me use their content and allowing me to present the idea.
 - The code used in the construction of the navbar was obtained from the Code Institute tutorials.
 - Thanks to Kevin Powell YouTuber and his channel. For CSS coding tips and explanations.
-- The Lorem Ipsum test was generatore from [this site](https://loremipsum.io/) for the wireframes
+- The Lorem Ipsum test was generated from [this site](https://loremipsum.io/) for the wireframes
 - Philip Morris for guidance and help on testing.
 
 
@@ -359,7 +359,7 @@ To run the project locally:
 --------
 ### Inspiration
 ---
-- I received inspiration for this project from my personal exeprience and wesited like Dribbble.
+- I received inspiration for this project from my personal exeprience and websites like Dribbble.
 - Also Kevin Powel video series on How to Make a website from scratch, YouTube. 
 
 
