@@ -330,7 +330,7 @@ To run the project locally:
 
     OpenClipart-Vectors / 27384 images
     [https://pixabay.com/vectors/music-notes-clef-159868/](https://pixabay.com/vectors/music-notes-clef-159868/)
-    accessed 01-jan-2022
+    accessed 01-Jan-2022
     Pixabay License
     Free for commercial use
     No attribution required
@@ -341,7 +341,7 @@ To run the project locally:
     ✓ No attribution required.
     Pexel
     [https://www.pexels.com/photo/person-in-black-hoodie-playing-acoustic-guitar-4472063/](https://www.pexels.com/photo/person-in-black-hoodie-playing-acoustic-guitar-4472063/)
-    accessed 02jan2022
+    accessed 02-Jan-2022
 
     photo-Steel Pan - music and culture in Lavantille Port of Spain, Trinidad
     Taken on August 20, 2012
