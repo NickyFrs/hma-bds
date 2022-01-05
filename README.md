@@ -210,7 +210,7 @@ This site currently contains the following features:
 ## Testing
 ---
  A numbe r of testing was carried out once the website was completed. An Spreadsheet and PDFs files where created for all 
- the tests and can be found in the folder Test-Validation [https://github.com/NickyFrs/hma-bds/Test-Validation](https://github.com/NickyFrs/hma-bds/hma-bds/Test-Validation).
+ the tests and can be found in the folder Test-Validation [https://github.com/NickyFrs/hma-bds/tree/main/Test-Validation](https://github.com/NickyFrs/hma-bds/tree/main/Test-Validation).
  
 **Validations**
 
