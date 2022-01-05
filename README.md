@@ -23,7 +23,10 @@ For screenshots of the website as it is now and also as per projeje, please see 
 
 - Actual Website screen shots
     For Desktop View
-    See pictures [here](https://nickyfrs.github.io/hma-bds/Screenshots/actual).
+    See pictures 
+	[Desktop homepage](https://nickyfrs.github.io/hma-bds/Screenshots/actual/desktop-homepage.png)
+	[Desktop About Page](https://nickyfrs.github.io/hma-bds/Screenshots/actual/desktop-about-page.png)
+	[Desktop Contact Page](https://nickyfrs.github.io/hma-bds/Screenshots/actual/desktop-contact-page.png)
 
 - Project Screen shots and screenshots for Mobile View
 
