@@ -24,22 +24,22 @@ For screenshots of the website as it is now and also as per projeje, please see 
 - Actual Website screen shots
     For Desktop View
     See pictures 
-	[Desktop homepage](https://nickyfrs.github.io/hma-bds/Screenshots/actual/desktop-homepage.png)
-	[Desktop About Page](https://nickyfrs.github.io/hma-bds/Screenshots/actual/desktop-about-page.png)
-	[Desktop Contact Page](https://nickyfrs.github.io/hma-bds/Screenshots/actual/desktop-contact-page.png)
+	- [Desktop homepage](https://nickyfrs.github.io/hma-bds/Screenshots/actual/desktop-homepage.png)
+	- [Desktop About Page](https://nickyfrs.github.io/hma-bds/Screenshots/actual/desktop-about-page.png)
+	- [Desktop Contact Page](https://nickyfrs.github.io/hma-bds/Screenshots/actual/desktop-contact-page.png)
 
 - Project Screen shots and screenshots for Mobile View
 
     For Desktop and Mobile View
     See pictures 
-	[HomePage](https://nickyfrs.github.io/hma-bds/Screenshots/project/HomePage.pdf)
-	[Homepage-mobile](https://nickyfrs.github.io/hma-bds/Screenshots/project/Homepage-mobile.jpg)
-	[About-Page-Collapse](https://nickyfrs.github.io/hma-bds/Screenshots/project/About-Page-Collapse.pdf)
-	[About-Page-open](https://nickyfrs.github.io/hma-bds/Screenshots/project/About-Page-open.pdf)
-	[About-page-collapse-mobile](https://nickyfrs.github.io/hma-bds/Screenshots/project/About-page-collapse-mobile.jpg)
-	[About-page-open-mobile](https://nickyfrs.github.io/hma-bds/Screenshots/project/About-page-open-mobile.jpg)
-	[Contact-Page](https://nickyfrs.github.io/hma-bds/Screenshots/project/Contact-Page.pdf)
-	[Contact-page-mobile](https://nickyfrs.github.io/hma-bds/Screenshots/project/Contact-page-mobile.jpg)
+	- [HomePage](https://nickyfrs.github.io/hma-bds/Screenshots/project/HomePage.pdf)
+	- [Homepage-mobile](https://nickyfrs.github.io/hma-bds/Screenshots/project/Homepage-mobile.jpg)
+	- [About-Page-Collapse](https://nickyfrs.github.io/hma-bds/Screenshots/project/About-Page-Collapse.pdf)
+	- [About-Page-open](https://nickyfrs.github.io/hma-bds/Screenshots/project/About-Page-open.pdf)
+	- [About-page-collapse-mobile](https://nickyfrs.github.io/hma-bds/Screenshots/project/About-page-collapse-mobile.jpg)
+	- [About-page-open-mobile](https://nickyfrs.github.io/hma-bds/Screenshots/project/About-page-open-mobile.jpg)
+	- [Contact-Page](https://nickyfrs.github.io/hma-bds/Screenshots/project/Contact-Page.pdf)
+	- [Contact-page-mobile](https://nickyfrs.github.io/hma-bds/Screenshots/project/Contact-page-mobile.jpg)
 
 
 
@@ -155,7 +155,7 @@ Hope Music Academy - UK website with the agreement and knoledge of the owner.
 
 ### Skeleton
 ---
-A .PDF file can be found [HERE](https://github.com/lhynes/User-Centric-Frontend-Development-Milestone-Project/blob/master/wireframes/homepage.png) with a wireframe meda with Figma shoing the mobile navigation 
+A .PDF file can be found [HERE](https://nickyfrs.github.io/hma-bds/Wireframes/HMA-BDS-Wireframe.pdf) with a wireframe meda with Figma shoing the mobile navigation 
 idea for desktop and Mobile, as well as the footer wireframe for moile and the entire idea for 
 the Homepage layout for the website
 
