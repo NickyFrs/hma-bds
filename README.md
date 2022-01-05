@@ -210,7 +210,7 @@ This site currently contains the following features:
 ## Testing
 ---
  A numbe r of testing was carried out once the website was completed. An Spreadsheet and PDFs files where created for all 
- the tests and can be found in [this folder HERE](https://github.com/lhynes/User-Centric-Frontend-Development-Milestone-Project/blob/master/wireframes/homepage.png).
+ the tests and can be found in the folder Test-Validation [https://nickyfrs.github.io/hma-bds/Test-Validation](https://nickyfrs.github.io/hma-bds/Test-Validation).
  
 **Validations**
 
