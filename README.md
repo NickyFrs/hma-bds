@@ -4,13 +4,13 @@
 ---------
 ## Project Description
 ---
-A part from putting to use the skills and techniques learned with Code Institute in HTML and CSS this 
-project is also a prototype of a static website for an already established music school in Barbados. 
+Apart from putting to use the skills and techniques learnt with Code Institute in HTML and CSS, this 
+project is also a prototype of a static website for an already-established music school in Barbados. 
 	
-The project idea is to showcase a better build website than the one that they already have to show a 
-more clean, attractive and organized front-end structure as well as a better back-end structure 
-(a more clean and readable code). The focus of the website is the same as initially intended, 
-Information about services provided and the school.  
+The purpose of the project idea is to showcase an improved website, upgraded from the existing one to 
+show a cleaner, attractive and organized front-end structure, as well as a better back-end structure 
+(a cleaner and legible code). The focus of the website remains unchanged, to provide information and 
+further insight into services and the nature of the school.  
 	
 Since the school already has a website, it will be a good challenge to come up with a new way to present 
 its content as well as incorporating new features in a way that is appealing and useful for both the users 
@@ -47,65 +47,67 @@ For screenshots of the website as it is now and also as per projeje, please see 
 
 ### User Background
 ---
-My approach to the UX design was to put information that I believe the user might need but not overloadd 
-with information just the nessesary primary information. To do this, I try to put me in the user's 
-position and think of what kind of information I would like to see if I visit the website and how easy 
-and accesible would be if I am on the move.
+My approach to the UX design was to input what I believed to be the neccessary primary information,
+without overloading them. To achieve this, I tried to put myself in the user's position and think of the 
+type of information I would like to see if I were to visit the website, as well as how easy 
+and accesible it would be if I were using the website on the move.
 
-I Started with the mobile first desing as most people nowadays are on the move and mostly check information 
-on their mobile phones and after working on the desktop desing. Worked under the idea that most people 
-looking at a music school are parents that just want an easy to access and easy to look website that 
-convey the information clearly with simple way to contact or book lessons.
+I started with the mobile first desing as most people nowadays are on the move and mostly check information 
+on their mobile phones and after working on the desktop desing. I worked under the idea that majority of 
+people looking at a music school are parents that would like an easy-to-access and easy-to-view website that 
+conveys the information clearly with a simple way to contact the school or book lessons.
 
-I also considered the most popular instruments in the country should should showcase in the front page 
-to create more signing uo opportunities. 
+I also considered that the most popular instruments in the country should showcase on the front page, 
+to create more opportunities for people to sign-up. 
 
 
 ### External user’s goal
 ---
-People like options, since up to date there is only one other school offering music classes in the 
-country's market, I like the user to know that there are other music services out there that can be 
-accessible to them with more user center focus when the visit the website.
+People like options and, since up-to-date there is only one other school offering music classes in the 
+country's market, I would like the user to know that there are other music services available that can 
+be accessible to them with a more user centered focus when they visit the website.
 
 - User stories
 
      * First Time Visitor Goals
 		I want the visitor to see a clear layout of the information the owner wants to convey.
 		That the visitor can clearly see and identify how to move around the website.
-		I want visitors to have a way to contact the school easy.
-		That they can find information about the teachers and services easy.
+		I want visitors to have a way to contact the school easily.
+		That they can find information about the teachers and services easily.
 					
 	* Returning Visitor Goals
-		That information they might need later (like prices or exams details) would easily 
-        accessible at all time and easy to find.
+		That information they might need later (such as prices or exams details) would be easily 
+        accessible at all times and easy to find.
 		That they can see and read about the tutors working for the school at any given time.
 					 
 	* Frequent User Goals
-		That users can see general information on different topics not only music (blog).
-		See if there is any new member of staff and their information.
-		See if there a new offers or news about the school or services provided.
+		That users can see general information on different topics, not only music (blog).
+		See if there are any new members of staff and be able to find their information.
+		See if there are new offers or news about the school or services provided.
 
  ### Site Owner's goals
 ---
-- As there is only one other music school in the area the owner wants to compete in the market.
+- As there is only one other music school in the area, the owner wants to compete in the market.
 - Increase awareness of the school within the country.
-- To have a internet presence.
+- To have an internet presence.
 - Promote subscriptions.
 - Promote accessible music teaching services.
 
 
 ### Market Research
 ---
-Looking at the scope of the island's music teaching opportunities, apart from individual personalized 
-classes from independent tutors, there is only one music school. This present a competition opportunity 
-and challenges. the classes offered are in group which make it difficult to target specific needs for 
-the student. There's also competition in price as the group classes make it cheaper. 
+Looking at the scope of the island's music tuition opportunities, there are two options: individually 
+personalized classes from independent tutors or tuition from only one other music school. This presents 
+a demand in the market for the school's niche services. The classes offered by the other school are given
+in large groups, which generates difficulty in targeting specific needs for the students. There is also 
+competition in price as the group classes allow for a price reduction, whereas the smaller classes given by 
+the owner's school lead to an increase in price.
 			
-The focus therefore will be on showing that the school offer services for smaller group which aloud for 
-more personalized tutoring depending on the need of the student at an affordable price or competing 
-prices and for all ages.
+The focus, therefore, will be on showing that the school offers services for smaller groups which allows for 
+more personalized tutoring, dependent on the needs of the student at an affordable or competing price,
+for all ages.
 			
-Upon looking at various website over the internet I found that most use a clear layout to showcase 
+Upon looking at various websites on the internet I found that most use a clear layout to showcase 
 theirs services with some using the colors their logos as base to convey their information, 
 some others use a mixture. 
         
