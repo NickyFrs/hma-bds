@@ -61,7 +61,7 @@ I also considered that the most popular instruments in the country should showca
 to create more opportunities for people to sign-up. 
 
 
-### External user’s goal
+### External User’s goal
 ---
 People like options and, since up-to-date there is only one other school offering music classes in the 
 country's market, I would like the user to know that there are other music services available that can 
@@ -167,7 +167,7 @@ I wanted visitors of the site to know immediately what it was about and what inf
 find there. And I also wanted the structure to be very simple to enable users to make the minimum number 
 of clicks to access the desired information. 
 
-### User journey
+### User Journey
 ---
 To build a quick sense of familiarity, the navbar will be on the top right side of the screen, 
 moving to the middle of the screen on the mobile view. The navigation structure, content and 
@@ -225,7 +225,7 @@ This site currently contains the following features:
 - [HTML](https://validator.w3.org/)
 - [CSS](https://jigsaw.w3.org/css-validator/)
 
-**Manual testing**
+**Manual Testing**
 
 - Manual testing was carried out on all the links and buttons on every page - all links in the footers and the navbars.
 - The read more and submit buttons were all checked as well. 
