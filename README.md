@@ -31,7 +31,15 @@ For screenshots of the website as it is now and also as per projeje, please see 
 - Project Screen shots and screenshots for Mobile View
 
     For Desktop and Mobile View
-    See pictures [here](https://nickyfrs.github.io/hma-bds/Screenshots/project)
+    See pictures 
+	[HomePage](https://nickyfrs.github.io/hma-bds/Screenshots/project/HomePage.pdf)
+	[Homepage-mobile](https://nickyfrs.github.io/hma-bds/Screenshots/project/Homepage-mobile.jpg)
+	[About-Page-Collapse](https://nickyfrs.github.io/hma-bds/Screenshots/project/About-Page-Collapse.pdf)
+	[About-Page-open](https://nickyfrs.github.io/hma-bds/Screenshots/project/About-Page-open.pdf)
+	[About-page-collapse-mobile](https://nickyfrs.github.io/hma-bds/Screenshots/project/About-page-collapse-mobile.jpg)
+	[About-page-open-mobile](https://nickyfrs.github.io/hma-bds/Screenshots/project/About-page-open-mobile.jpg)
+	[Contact-Page](https://nickyfrs.github.io/hma-bds/Screenshots/project/Contact-Page.pdf)
+	[Contact-page-mobile](https://nickyfrs.github.io/hma-bds/Screenshots/project/Contact-page-mobile.jpg)
 
 
 
